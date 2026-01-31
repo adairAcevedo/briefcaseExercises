@@ -8,3 +8,4 @@ list exercises
 #5 area of a polygon
 #6 image aspect ratio
 #7 invert strings
+#8 counting words
